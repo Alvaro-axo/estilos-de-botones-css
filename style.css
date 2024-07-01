@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+div{
+    padding: 20px;
+    background-color: aquamarine;
+}
+a{
+    background-color: blue;
+    color: black;
+    display: block;
+    text-decoration: none;
+    border: solid 1px black;
+    margin: 10px;
+    padding: 20px;
+    transition: background-color 2s 1s;
+}
+a:hover{
+    background-color: red;
+    color: white;
+}
+.bloque{
+    background-color: antiquewhite;
+    display: inline;
+    margin: 10px;
+    padding: 0;
+}
