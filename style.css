@@ -6,7 +6,7 @@ div{
     background-color: aquamarine;
 }
 a{
-    background-color: blue;
+    background-color: rgb(77, 77, 230);
     color: black;
     display: block;
     text-decoration: none;
