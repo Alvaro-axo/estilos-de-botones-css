@@ -16,7 +16,7 @@ a{
     transition: background-color 2s 1s;
 }
 a:hover{
-    background-color: red;
+    background-color: violet;
     color: white;
 }
 .bloque{
